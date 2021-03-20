@@ -17,7 +17,7 @@ https://docs.docker.jp/compose/wordpress.html
 
 ブラウザで
 http://localhost:8000  
-id/pw: mariko or user01/06Rl0VJ0FGA7v^f(jF  ←volume消したら変わっちゃうけど
+id/pw: （install後の初回セットアップ設定値）  ←volume消したら変わっちゃうけど
 ```
 <br>
 
